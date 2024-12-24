@@ -2,3 +2,5 @@ vless://fb9c2336-c1d8-11ef-a51c-00163e017cc3@indo6.vpnjantit.com:10002?encryptio
 vless://e482b1a8-c1e0-11ef-90d0-00163e870a9c@indo5.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#xnon-vpnjantit.com
 vless://5b4e973c-c1e3-11ef-bbeb-00163cf2e234@indo.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#xnon-vpnjantit.com
 vless://636a2f1c-c1e3-11ef-ab02-678929881000@indo7.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#xnon-vpnjantit.com
+vmess://eyJhZGQiOiJzZy0xLmhpaHUubmV0IiwiYWlkIjoiMCIsImlkIjoiNDA0MzYxNjAtYzFlNC0xMWVmLWI4MzEtMjA1YzZkNWY1ZDc4IiwiaG9zdCI6IiIsIm5ldCI6IndzIiwicGF0aCI6Ii9lcWdmeWl2YyIsInBvcnQiOiI0NDMiLCJwcyI6IjQ0MyBWbWVzcyBTaW5nYXBvcmUgSEUtMSBMaW1pdCAyMDI0LTEyLTMxIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vless://aff0e650-c1e4-11ef-9bc0-1239d0255272@sg3.socifiles.com:443?security=tls&encryption=none&headerType=none&type=tcp&flow=&sni=#SG+Vless-TCP+XTLS(2024-12-31)
